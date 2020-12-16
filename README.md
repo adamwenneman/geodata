@@ -1,2 +1,2 @@
 # geodata
-Miscellaneous useful geographic data in geojson format
+Miscellaneous useful geo data to save for later
